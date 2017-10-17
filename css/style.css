@@ -1,0 +1,88 @@
+.icons{
+	width: 1200px;
+	height: 300px;
+}
+
+h1{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.fa{
+	font-size: 70px;
+}
+
+.fa:hover{
+	font-size: 100px;
+	color: #C5CDE5;
+	cursor: pointer;
+}
+
+.icon-music{
+	font-size: 70px;
+}
+
+.icon-music:hover{
+	font-size: 100px;
+	color: #C5CDE5;
+	cursor: pointer;
+}
+
+.first-icon{
+	width: 200px;
+	height: 300px;
+	background-color: #FBFBFB;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	color: #949494;
+}
+
+.second-icon{
+	width: 200px;
+	height: 300px;
+	background-color: #FBFBFB;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	color: #949494;
+}
+
+.third-icon{
+	width: 200px;
+	height: 300px;
+	background-color: #FBFBFB;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	color: #949494;
+}
+
+.fourth-icon{
+	width: 200px;
+	height: 300px;
+	background-color: #FBFBFB;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	color: #949494;
+}
+
+.fifth-icon{
+	width: 200px;
+	height: 300px;
+	background-color: #FBFBFB;
+	float: left;
+	text-align: center;
+	color: #949494;
+}
